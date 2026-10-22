@@ -4,7 +4,6 @@ Harness educativo para integrar monitoreo, evaluación, recuperación de informa
 
 ## Objetivo
 
-Implementar el flujo trabajado en la Clase 10:
 - vigilar cambios en las entradas sin confundirlos con una caída del rendimiento;
 - comparar predicciones con resultados reales cuando estén disponibles;
 - investigar alertas antes de cambiar el sistema;
