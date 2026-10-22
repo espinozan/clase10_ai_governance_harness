@@ -34,6 +34,7 @@ Nunca guardes tokens en el código ni los subas a Git. Copiá `.env.example` com
    .\run.ps1
    ```
 6. Abrí la URL local que muestra Streamlit (normalmente `http://localhost:8501`).
+7. También puede instalarse mediante #install.bat
 
 ### Linux
 1. Descomprimí el ZIP y entrá a la carpeta.
